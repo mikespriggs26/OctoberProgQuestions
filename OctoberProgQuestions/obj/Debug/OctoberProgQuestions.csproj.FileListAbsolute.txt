@@ -1,0 +1,7 @@
+C:\Users\mikes\source\repos\OctoberProgQuestions\OctoberProgQuestions\bin\Debug\OctoberProgQuestions.exe.config
+C:\Users\mikes\source\repos\OctoberProgQuestions\OctoberProgQuestions\bin\Debug\OctoberProgQuestions.exe
+C:\Users\mikes\source\repos\OctoberProgQuestions\OctoberProgQuestions\bin\Debug\OctoberProgQuestions.pdb
+C:\Users\mikes\source\repos\OctoberProgQuestions\OctoberProgQuestions\obj\Debug\OctoberProgQuestions.csprojResolveAssemblyReference.cache
+C:\Users\mikes\source\repos\OctoberProgQuestions\OctoberProgQuestions\obj\Debug\OctoberProgQuestions.csproj.CoreCompileInputs.cache
+C:\Users\mikes\source\repos\OctoberProgQuestions\OctoberProgQuestions\obj\Debug\OctoberProgQuestions.exe
+C:\Users\mikes\source\repos\OctoberProgQuestions\OctoberProgQuestions\obj\Debug\OctoberProgQuestions.pdb
