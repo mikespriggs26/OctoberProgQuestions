@@ -10,6 +10,54 @@ namespace OctoberProgQuestions
     {
         static void Main(string[] args)
         {
+            //*****************************************
+            //Plus-minus
+            //For a array, it will produce the percentage of +#s, -#s and zeros contained within
+
+            //int[] arr = new int[] { -4, 3, -9, 0, 4, 1 };
+            //float posCounter = 0;
+            //float negCounter = 0;
+            //float zeroCounter = 0;
+            //foreach (var item in arr)
+            //{
+            //    if (item == 0)
+            //    {
+            //        zeroCounter += 1;
+            //    }
+            //    else if(item > 0)
+            //    {
+            //        posCounter += 1;
+            //    }
+            //    else if(item < 0)
+            //    {
+            //        negCounter += 1;
+            //    }
+
+            //}
+            //Console.WriteLine(posCounter/arr.Length);
+            //Console.WriteLine(zeroCounter/arr.Length);
+            //Console.WriteLine(negCounter/arr.Length);
+
+            //*************************************
+            //Staircase
+            //int n = 4;
+            //for (int row = 0; row < n; row++)
+            //{
+            //    for (int i = 1; i < n - row; i++)
+            //    {
+            //        Console.Write(" ");
+
+            //        //Console.WriteLine();
+            //    }
+            //    for (int column = n - row; column <= n; column++)
+            //    {
+            //        Console.Write("*");
+            //    }
+
+            //    Console.WriteLine();
+            //}
+
+
             //Checks to see if two strings are anagrams
             //string strA;
             //string strB;
