@@ -10,6 +10,74 @@ namespace OctoberProgQuestions
     {
         static void Main(string[] args)
         {
+
+            //Climbing the Leaderboard
+            //int[] scores = new int[] { 100, 100, 50, 40, 40, 20, 10 };
+            //int[] alice = new int[] { 5, 25, 50, 120 };
+
+            //var uniqueScores = new List<int>();
+
+            //var hashset = new HashSet<int>();
+            //int counter = 1;
+            //foreach (var item in scores)
+            //{
+            //    if (hashset.Add(item))
+            //    {
+            //        uniqueScores.Add(item);
+
+            //    }
+            //}
+
+            //foreach (var item in alice)
+            //{
+            //    foreach (var score in uniqueScores)
+            //    {
+            //        if (score > item)
+            //        {
+            //            counter++;
+            //        }
+
+            //    }
+            //    Console.WriteLine(counter);
+            //    counter = 1;
+            //}
+
+            // Check to see if a number is an Armstrong number
+            //Console.WriteLine("Please enter a number");
+            //string userInputC = Console.ReadLine();
+            //int userInputCInt = int.Parse(userInputC);
+            //int num1 = int.Parse(userInputC[0].ToString());
+            //int num2 = int.Parse(userInputC[1].ToString());
+            //int num3 = int.Parse(userInputC[2].ToString());
+            //if (num1 * num1 * num1 + num2 * num2 * num2 + num3 * num3 * num3 == userInputCInt)
+            //{
+            //    Console.WriteLine("Your number is an Armstrong number.");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Your number is NOT an Armstrong number.");
+            //}
+
+
+
+            //Produces all Armstrong numbers between 1 and 1000
+            //int numa = 0;
+            //int numab = 0;
+            //int numb = 0;
+            //int numc = 0;
+
+            //for (int i = 100; i < 1000; i++)
+            //{
+            //    numc = i % 10;//last digit 1
+            //    numab = i / 10;//first two digits  37
+            //    numb = numab % 10; //middle digit 7
+            //    numa = numab / 10;//first digit
+
+            //    if(numa * numa * numa + numb * numb * numb + numc * numc * numc == i)
+            //    {
+            //        Console.WriteLine(i + " is an Armstrong number");
+            //    }
+
             //*****************************************
             //Plus-minus
             //For a array, it will produce the percentage of +#s, -#s and zeros contained within
