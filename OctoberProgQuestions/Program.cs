@@ -10,6 +10,30 @@ namespace OctoberProgQuestions
     {
         static void Main(string[] args)
         {
+            //***********************************
+            //Time Conversion - convert string to military time
+            //string time = "11:05:45AM";
+            //char a = time[0];
+            //char b = time[1];
+            //char c = time[8];   
+            //char d = time[9];
+            //string segment = time.Substring(2, 6);
+            //string str = a.ToString() + b.ToString();
+            //string ampm = c.ToString() + d.ToString();
+            //int hours = int.Parse(str);
+
+            //if (ampm == "PM")
+            //{
+            //    hours += 12;
+            //}
+            //if(ampm == "AM" && hours == 12)
+            //{
+            //    hours = 0;
+            //}
+            //string hour = hours.ToString();
+            //string result = hour + segment;
+
+            //Console.WriteLine(result);
 
             //Climbing the Leaderboard
             //int[] scores = new int[] { 100, 100, 50, 40, 40, 20, 10 };
