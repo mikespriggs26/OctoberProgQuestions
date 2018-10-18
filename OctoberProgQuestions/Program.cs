@@ -10,6 +10,36 @@ namespace OctoberProgQuestions
     {
         static void Main(string[] args)
         {
+            //*************************************************
+            //Mini-Max Sum
+            //Find the minimum and maximum values by summing four of five integers
+
+            //int[] arr = new int[] { 1, 2, 3, 4, 5, };
+            //int arrSum = arr[0] + arr[1] + arr[2] + arr[3] + arr[4];
+            //int minSum = arrSum;
+            //int maxSum = 0;
+
+
+            //for (int i = 0; i < arr.Length; i++)
+            //{
+            //    int counter = 0;
+            //    int testSum = arrSum - arr[counter];
+            //    counter++;
+            //    if (testSum > maxSum)
+            //    {
+            //        maxSum = testSum;
+            //    }
+            //    if(testSum < minSum)
+            //    {
+            //        minSum = testSum;
+            //    }
+            //    Console.WriteLine(testSum);
+
+            //}
+            //Console.WriteLine(minSum + " = minSum");
+            //Console.WriteLine(maxSum + " = maxSum");
+            //Console.ReadKey();
+
             //***********************************
             //Time Conversion - convert string to military time
             //string time = "11:05:45AM";
